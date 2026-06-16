@@ -1,0 +1,7 @@
+Power-BI Core Concepts:
+Visualization
+DAX
+Power BI Service
+
+The DAX is the hidden beast with layers in Power BI.
+Which makes learning it difficult.

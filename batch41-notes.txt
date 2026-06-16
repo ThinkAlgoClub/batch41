@@ -1,0 +1,9 @@
+NOTES
+========
+Topics covered:
+Introduction
+If statements
+Loops
+Lists
+Tuples
+Files
